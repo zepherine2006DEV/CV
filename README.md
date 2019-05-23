@@ -1,6 +1,8 @@
-## Your Name
+## James Hylins
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm an experienced IT professional working as a Product Engineer at John Lewis.
+I have over 20 year experience in 
+And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
