@@ -1,18 +1,18 @@
 ## James Hylins
 
-I'm an experienced IT professional working as a Product Engineer at John Lewis.
-I have over 20 year experience in 
-And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm an experienced IT professional currently working as a Product Engineer at John Lewis.
+I have over 20 year experience in various IT roles, including development, business analysis and management.
+I'm currently studying at Makers Academy.
 
 ## Skills
 
-#### This Skill
+#### Business Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I spent 7 years as a business analyst, working on a wide range of projects and at different stages in the project lifecycle.
 
 - Experience
-- Achievements
-- Evidence
+- Lead Business Analyst for 2 major IT programmes, including a cyber security programme.
+- BCS Diploma in Business Analysis
 
 #### Another Skill
 
