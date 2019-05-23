@@ -10,22 +10,19 @@ I'm currently studying at Makers Academy.
 
 I spent 7 years as a business analyst, working on a wide range of projects and at different stages in the project lifecycle.
 
-- Experience
-- Lead Business Analyst for 2 major IT programmes, including a cyber security programme.
+- Business / Systems Analyst at both Waitrose and John Lewis.
+- Lead Business Analyst for 2 major IT programmes, including a multi-year cyber security programme.
 - BCS Diploma in Business Analysis
 
-#### Another Skill
+#### Coding and Development
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Experience of COBOL, Java and Ruby
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Wide range of projects includinng mainframe and clinet/server applications.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2019 to August 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -36,17 +33,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Oxford University (1992 - 1996)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA(Hons) Chemistry
+- 2:2
 
-#### Any other qualifications
+#### Chartered IT Professional (CITP)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Waitrose** (1996 to 2016)    
+*Principle Programme, Business Systems Analyst*  
+**John Lewis** (2016 to 2019)   
+*Business Analyst, Product Engineer*  
